@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770334452974",
+    "project_id": "echo-realm-6d3ba",
+    "storage_bucket": "echo-realm-6d3ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770334452974:android:a6c2d1c8a1ccb56d0997ff",
+        "android_client_info": {
+          "package_name": "com.example.echorealm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_9t1mXB9K-yrFyjkoWWeGC4gJHYI1Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
