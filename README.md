@@ -61,16 +61,20 @@ A modern Flutter mobile application for real-time community chatting for a seaml
   <tr>
     <td align="center" style="padding: 10px;">
         <b>Login</b><br/>
-      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/Login.jpeg" width="100%" alt="Add Expense Screen" />
+      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/Login.jpeg" width="90%" alt="Add Expense Screen" />
     </td>
     <td align="center" style="padding: 10px;">
         <b>Register</b><br/>
-      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/Register.jpeg" width="100%" alt="Add Expense Screen" />
+      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/Register.jpeg" width="90%" alt="Add Expense Screen" />
     </td>
     <td align="center" style="padding: 10px;">
         <b>Chat</b><br/>
-      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/ChatScreen.jpeg" width="100%" alt="Add Expense Screen" />
+      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/ChatScreen.jpeg" width="90%" alt="Add Expense Screen" />
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td align="center" style="padding: 10px;">
         <b>Users</b><br/>
       <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/Users.jpeg" width="100%" alt="Add Expense Screen" />
