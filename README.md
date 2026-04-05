@@ -57,9 +57,30 @@ A modern Flutter mobile application for real-time community chatting for a seaml
 
 ## 📸 Screenshots
 
-| Login Screen | Chat Screen |
-|--------------|------------|
-| <img src="file_00000000e574724397694cb94a54337e.jpeg" width="100%" alt="Login Screen" /> | <img src="file_0000000041f472469bd6d305eb1b6ed7.jpeg" width="100%" alt="Chat Screen" /> |
-
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+        <b>Login</b><br/>
+      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/Login.jpeg" width="100%" alt="Add Expense Screen" />
+    </td>
+    <td align="center" style="padding: 10px;">
+        <b>Register</b><br/>
+      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/Register.jpeg" width="100%" alt="Add Expense Screen" />
+    </td>
+    <td align="center" style="padding: 10px;">
+        <b>Chat</b><br/>
+      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/ChatScreen.jpeg" width="100%" alt="Add Expense Screen" />
+    </td>
+    <td align="center" style="padding: 10px;">
+        <b>Users</b><br/>
+      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/Users.jpeg" width="100%" alt="Add Expense Screen" />
+    </td>
+    <td align="center" style="padding: 10px;">
+        <b>Messages</b><br/>
+      <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/MessagesStored.jpeg" width="100%" alt="Add Expense Screen" />
+    </td>
+    
+  </tr>
+</table>
 
 
